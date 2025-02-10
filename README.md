@@ -7,3 +7,6 @@ autodesk-eagle-schematic-file-generator
   - [google/j2cl: Java to Closure JavaScript transpiler](https://github.com/google/j2cl)
   - [TeaVM](https://teavm.org/)
 - May use https://github.com/apache/xerces-c/tree/master/src/xercesc/validators/DTD instead
+
+### Tutorials
+- [Using EAGLE: Schematic - SparkFun Learn](https://learn.sparkfun.com/tutorials/using-eagle-schematic/all)
